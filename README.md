@@ -17,6 +17,7 @@ Decyzje projektowe:
 - Separacja warstw — oddzielenie logiki biznesowej (Utils) od modeli danych (Models) zwiększa czytelność i testowalność
 
 Plany na rozszerzenie aplikacji:
+
 Ze względu na ograniczony czas, nie udało mi się zaimplementować funkcji zapisu i wczytywania gry. Planem na przyszłość jest realizacja tych funkcji za pomocą serializacji i deserializacji JSON:
 
 Zapis gry:
