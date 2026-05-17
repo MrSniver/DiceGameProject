@@ -1,0 +1,15 @@
+C:\Users\jerry\Desktop\DiceGameProject\DiceGameProject\bin\Debug\net10.0\DiceGameProject.exe
+C:\Users\jerry\Desktop\DiceGameProject\DiceGameProject\bin\Debug\net10.0\DiceGameProject.deps.json
+C:\Users\jerry\Desktop\DiceGameProject\DiceGameProject\bin\Debug\net10.0\DiceGameProject.runtimeconfig.json
+C:\Users\jerry\Desktop\DiceGameProject\DiceGameProject\bin\Debug\net10.0\DiceGameProject.dll
+C:\Users\jerry\Desktop\DiceGameProject\DiceGameProject\bin\Debug\net10.0\DiceGameProject.pdb
+C:\Users\jerry\Desktop\DiceGameProject\DiceGameProject\obj\Debug\net10.0\DiceGameProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerry\Desktop\DiceGameProject\DiceGameProject\obj\Debug\net10.0\DiceGameProject.AssemblyInfoInputs.cache
+C:\Users\jerry\Desktop\DiceGameProject\DiceGameProject\obj\Debug\net10.0\DiceGameProject.AssemblyInfo.cs
+C:\Users\jerry\Desktop\DiceGameProject\DiceGameProject\obj\Debug\net10.0\DiceGameProject.csproj.CoreCompileInputs.cache
+C:\Users\jerry\Desktop\DiceGameProject\DiceGameProject\obj\Debug\net10.0\DiceGameProject.sourcelink.json
+C:\Users\jerry\Desktop\DiceGameProject\DiceGameProject\obj\Debug\net10.0\DiceGameProject.dll
+C:\Users\jerry\Desktop\DiceGameProject\DiceGameProject\obj\Debug\net10.0\refint\DiceGameProject.dll
+C:\Users\jerry\Desktop\DiceGameProject\DiceGameProject\obj\Debug\net10.0\DiceGameProject.pdb
+C:\Users\jerry\Desktop\DiceGameProject\DiceGameProject\obj\Debug\net10.0\DiceGameProject.genruntimeconfig.cache
+C:\Users\jerry\Desktop\DiceGameProject\DiceGameProject\obj\Debug\net10.0\ref\DiceGameProject.dll
