@@ -1,6 +1,5 @@
 Projekt gry w kości został napisany w języku C#. Główny game loop zaimplementowałem w klasie Game, która koordynuje przebieg rozgrywki.
 
-Organizacja kodu
 Zastosowałem podział odpowiedzialności na następujące komponenty:
 
 Models — klasa Player reprezentująca gracza i przechowująca jego wyniki
